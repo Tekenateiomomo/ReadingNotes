@@ -25,4 +25,5 @@ This markdown file has been made to demonstrate deployment with Github Pages and
 ***
 
 ### Growth Mindset  
-< A growth mindset is a belief that you can **develop** your skills and tallents through hardwork, the right strategies, and guidance from others.
+
+> A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with **a love of learning**.
