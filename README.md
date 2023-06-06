@@ -1,6 +1,6 @@
 # Reading-Notes-102d5
 A note document to keep track of coding.  
-## Tech Educators  
+### Tech Educators  
 **Document Content**  
  1. Brief intro  
  2. About  
@@ -16,3 +16,8 @@ These are a list of what i enjoy doing:
  + Cooking
  + Gaming (FIFA)
  + Meeting new people and making good friends.  
+***
+
+
+### About  
+This markdown file has been made to demonstrate deployment with Github Pages and how to write **markdowm**
