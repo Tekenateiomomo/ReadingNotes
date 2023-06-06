@@ -1,2 +1,2 @@
-# reading-notes-102d5
-## 
+# Reading-Notes-102d5
+A note document to keep track of coding.
