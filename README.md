@@ -30,5 +30,7 @@ This markdown file has been made to demonstrate deployment with Github Pages and
 >  
 > A fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.  
 
-![Fix Mindset vs Growth Mindset](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
+![Fix Mindset vs Growth Mindset](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)  
+
+You can view any of my GitHub Repositories [HERE](https://github.com/Tekenateiomomo?tab=repositories)
 
