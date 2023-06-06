@@ -20,4 +20,9 @@ These are a list of what i enjoy doing:
 
 
 ### About  
-This markdown file has been made to demonstrate deployment with Github Pages and how to write **markdowm**
+This markdown file has been made to demonstrate deployment with Github Pages and how to write **markdowm**  
+
+***
+
+### Growth Mindset  
+< A growth mindset is a belief that you can **develop** your skills and tallents through hardwork, the right strategies, and guidance from others.
