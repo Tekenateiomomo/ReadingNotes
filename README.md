@@ -16,7 +16,7 @@ These are a list of what i enjoy doing:
  + Cooking
  + Gaming (FIFA)
  + Meeting new people and making good friends.  
-***
+*** 
 
 
 ### About  
